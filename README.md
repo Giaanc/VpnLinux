@@ -1,9 +1,9 @@
 # VpnLinux
-# Script for automatic setup of an IPsec VPN server on Ubuntu LTS and Debian.
-# Works on any dedicated server or virtual private server (VPS) except OpenVZ.
+Script for automatic setup of an IPsec VPN server on Ubuntu LTS and Debian.
+Works on any dedicated server or virtual private server (VPS) except OpenVZ.
 
 # on windows 8, 8.1, 10 
-# you need to add this regedit key dword
+you need to add this regedit key dword
 
 'IPsec Nat-t' error 
 'Windows PowerShell code' after 'restart'
