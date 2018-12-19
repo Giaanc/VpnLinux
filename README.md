@@ -1,3 +1,9 @@
+# on google instance:
+southamerica east1 B
+
+# Steps
+https://www.youtube.com/watch?v=-y_izsYzPNI
+
 # VpnLinux
 Script for automatic setup of an IPsec VPN server on Ubuntu LTS and Debian.
 Works on any dedicated server or virtual private server (VPS) except OpenVZ.
