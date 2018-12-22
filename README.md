@@ -59,7 +59,8 @@ OR
 Go to regedit 
 
 Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\PolicyAgent
-add a dword type.
+add a dword type with a name
+'AssumeUDPEncapsulationContextOnSendRule'
 set value '2'
 Restart
 
