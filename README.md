@@ -15,7 +15,10 @@ you need to add this regedit key dword
 'Windows PowerShell code' after 'restart'
 Set-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Services\PolicyAgent -Name AssumeUDPEncapsulationContextOnSendRule -Value 2 -Type DWord
 
-# Steps:
+# Firewall Rules
+https://imgur.com/a/zTQ90DZ
+
+# Steps on CentOS:
 
 on konsole execute
 
