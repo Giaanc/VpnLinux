@@ -19,7 +19,7 @@ Set-ItemProperty HKLM:\SYSTEM\CurrentControlSet\Services\PolicyAgent -Name Assum
 
 on konsole execute
 
-1: 'wget https://github.com/Giaanc/VpnLinux/blob/master/vpnsetup.sh'    
+1: 'wget https://raw.githubusercontent.com/Giaanc/VpnLinux/master/vpnsetup.sh'    
 
 (you need wait 10 minute)
 
